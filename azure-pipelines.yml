@@ -1,7 +1,7 @@
 
 
 pool:
-  name: Azure pipelines
+  name: Azure Pipelines
 jobs:
   - job: Linux
     pool: local
